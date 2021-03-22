@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+    letter-spacing: 2px;
+    font-size: 30px;
+    background-color: #903749;
+    color: #ffff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    margin-left: 10px;
+    float: left;
+    box-sizing: border-box;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    font-size: 15px;
+}

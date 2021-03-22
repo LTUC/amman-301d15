@@ -1,0 +1,30 @@
+main div img {
+    width: 70%;
+    height: 70%;
+}
+
+#photo-template {
+    display: inline-block;
+    float: left;
+    width: 30%;
+    height: 30%;
+}
+
+main div {
+    text-align: center;
+    margin-top: 30px;
+    border-style: solid;
+    padding: 25px;
+    float: left;
+}
+
+#photo-template h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#photo-template p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+}

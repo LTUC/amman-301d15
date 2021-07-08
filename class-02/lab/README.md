@@ -45,17 +45,36 @@ You have the option of using the provided `index.html` file, but it is not a req
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: #1: Display images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: _2.47pm____
 
-Finish time: _____
+Finish time: 4.00pm_____
 
-Actual time needed to complete: _____
+Actual time needed to complete: __hour and a half___
 ```
+Number and name of feature: #2: Filter images
 
+Estimate of time needed to complete: 2 hour
+
+Start time: _4.00pm____
+
+Finish time: 6.00pm_____
+
+Actual time needed to complete: 2 hours and still not finished___
+Add this information to your README.
+`````
+Number and name of feature:#3 Style the application
+
+Estimate of time needed to complete: 2 hour
+
+Start time: _6.00pm____
+
+Finish time: 8.00pm_____
+
+Actual time needed to complete: 2 hours and still not finished___
 Add this information to your README.
 
 ### Feature #1: Display images
